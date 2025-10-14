@@ -1,5 +1,5 @@
-# Tech Challenge Fase 1 - Grupo 42
-## Integrantes do Grupo 11
+# Tech Challenge Fase 2 - Grupo 42
+## Integrantes do Grupo 42
 Marx Engels Antunes Correia
 marx.correia@solutis.com.br
 ``RM: 366404``
