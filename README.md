@@ -1,4 +1,4 @@
-# Tech Challenge Fase 1 - Grupo 11
+# Tech Challenge Fase 1 - Grupo 42
 ## Integrantes do Grupo 11
 Marx Engels Antunes Correia
 marx.correia@solutis.com.br
